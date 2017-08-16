@@ -1,0 +1,52 @@
+DoclusterWeb Design Proposal
+Metin Say, Quinn Magendanz
+August 2017
+
+Background
+The Docluster web page will be the main source of information and learning 
+for the docluster libraries and products. It will provide opportunities to
+read and learn about the various models, corpora, and APIs available, as 
+well as provide opportunities to download these features in a more friendly
+user experience.
+
+Functionality/Purpose
+-Logo and Name
+-Project Overview
+-Package Manager (download page)
+-API Documentation
+-Algorithm Accuracy Plots (wrt time)
+-Most Recent...(research models)
+-Examples of package functionality
+
+Webpage
+
+Overview Page
+-Logo
+-Name
+-Overview
+-Concise examples + gif
+
+Detailed Product Description Page (Docluster Features)
+
+News Page
+-Most Recent Modules
+-Most popular modules
+
+Module Page
+-Heirarchy of Model types
+-Model description
+-Model download capability
+
+Corpus Page
+-Heirarchy of data types
+-Corpus description
+-Corpus download capability
+
+Playground Page
+-Perform simple operations with pretrained models
+
+API Documentation Page
+-Command Type Tabs
+-Description of commands
+
+Backend
