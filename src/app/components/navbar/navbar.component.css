@@ -1,0 +1,24 @@
+a {
+  height: 70px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  color: #151414;
+}
+
+.nav-item {
+  height: 70px;
+  padding: 25px;
+}
+
+.logo {
+  width: 80px;
+}
+
+.navbar {
+  background-color: #ffffff;
+  height: 70px;
+  margin: 0px;
+  opacity: 0.95;
+  border-bottom: #efefef solid 1px;
+}
