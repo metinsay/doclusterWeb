@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+
+html * {
+  color: #332C2C;
+  font-family: 'Raleway', sans-serif;
+}
+
+.section-title {
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  color: #332C2C;
+}
+
+.section-text {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  color: #332C2C;
+}
+
+span {}
+
+.banner {
+  background-color: #151414;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
