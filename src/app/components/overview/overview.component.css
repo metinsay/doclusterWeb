@@ -1,0 +1,8 @@
+.inline-content {
+  float: left;
+}
+
+.minimize {
+  margin-left: 20px;
+  width: calc(100% - 150px);
+}
